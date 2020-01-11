@@ -4,7 +4,7 @@ resulted in the error message: "You have a Windows Store 'data.jet' but you're r
 ---------------------------------------------------------------------
 v1.6.2:
 • Actually added ALL dependencies and files this time. This resulted
-in a bigger file size
+in a bigger file size, but if it works it works :O
 ---------------------------------------------------------------------
 v1.6.1:
 • Improved update system
