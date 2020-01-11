@@ -1,13 +1,16 @@
+v1.6.3 (Latest Version):
+• Fixed a bug that disallowed pasting of extracted password, which
+resulted in the error message: "You have a Windows Store 'data.jet' but you're running the Steam version of BTD Battles. Place the correct file and relaunch this application."
+---------------------------------------------------------------------
 v1.6.2:
 • Actually added ALL dependencies and files this time. This resulted
 in a bigger file size
-
-
+---------------------------------------------------------------------
 v1.6.1:
 • Improved update system
-
-
+---------------------------------------------------------------------
 v1.6: 
 • Implemented update system!
 • Added all dependencies and required files
 • Fixed some bugs
+---------------------------------------------------------------------
