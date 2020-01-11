@@ -1,3 +1,8 @@
+v1.6.2:
+• Actually added ALL dependencies and files this time. This resulted
+in a bigger file size
+
+
 v1.6.1:
 • Improved update system
 
