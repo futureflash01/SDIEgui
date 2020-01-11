@@ -1,3 +1,8 @@
+v1.6.1:
+• Improved update system
+
+
 v1.6: 
+• Implemented update system!
 • Added all dependencies and required files
 • Fixed some bugs
