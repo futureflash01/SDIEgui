@@ -2,5 +2,6 @@
 <item>
     <version>1.0.0.0</version>
     <url>https://raw.githubusercontent.com/laithayoub71/SDIEgui/master/BTD-Battles-Password-Extractor.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <changelog>https://sdie.ga/btd/changelog>
+    <checksum algorithm="MD5">504D66EE74B6635694C64F99E8BE8A69</checksum>
 </item>
