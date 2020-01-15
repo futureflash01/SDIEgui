@@ -1,5 +1,9 @@
 
-v1.6.4 (Latest Version):
+v1.6.5 (Latest Version):
+• Fixed clipboard bug
+
+---------------------------------------------------------------------
+v1.6.4:
 • Added administrator privileges to fix all errors
 
 ---------------------------------------------------------------------
