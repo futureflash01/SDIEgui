@@ -1,5 +1,10 @@
 
-v1.6.5 (Latest Version):
+v1.6.6 (Latest Version):
+• Who knows what I did this time... Figure it out :O
+
+---------------------------------------------------------------------
+
+v1.6.5:
 • Fixed clipboard bug
 
 ---------------------------------------------------------------------
