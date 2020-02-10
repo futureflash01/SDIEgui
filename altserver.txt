@@ -1,5 +1,8 @@
 
-v1.1 (Latest Version):
+v1.2 (Latest Version):
+• Fixed update bug
+---------------------------------------------------------------------
+v1.1:
 • Added the option to locate AltServer if not installed on C: drive
 • Implemented updates for future changes
 ---------------------------------------------------------------------
