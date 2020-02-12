@@ -1,5 +1,9 @@
 
-v1.2 (Latest Version):
+v1.3 (Latest Version):
+• Added an URL shortener (EXPERIMENTAL)
+• Thanks to MuStAPro (u/mustapro) for providing me the code and helping me clean up the code a little bit more <3
+---------------------------------------------------------------------
+v1.2:
 • Fixed update bug
 ---------------------------------------------------------------------
 v1.1:
