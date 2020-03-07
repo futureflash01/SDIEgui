@@ -1,5 +1,8 @@
 
-v1.6.8 (Latest Version):
+v1.6.9 (Latest Version):
+• Behind the scenes bug fixes and code improvements
+---------------------------------------------------------------------
+v1.6.8:
 • Made the program automatically detect if BTD Battles is running rather than letting the user
   manually click the "Refresh Status" button.
 • (ABRLRL2xD2xU)^-1
