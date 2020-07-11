@@ -1,5 +1,9 @@
 
-v1.18 (Latest Version):
+v1.19 (Latest Version):
+• Fixed a bug where it shows the error: "udid.txt cannot be found"
+
+---------------------------------------------------------------------
+v1.18:
 • Bug fixes and code improvements
 • Faster '.bat' file reads
 ---------------------------------------------------------------------
