@@ -1,5 +1,9 @@
 
-v1.17 (Latest Version):
+v1.18 (Latest Version):
+• Bug fixes and code improvements
+• Faster '.bat' file reads
+---------------------------------------------------------------------
+v1.17:
 • Behind the scenes bug fixes and code improvements
 • OTA Update test :D. If you see this, then OTA updates are working!
 ---------------------------------------------------------------------
