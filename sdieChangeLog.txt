@@ -1,7 +1,15 @@
 
-v1.19 (Latest Version):
+v1.20 (Latest Version):
+• Fixed some errors when saving the output file
+• Added additional errors to help clarify some issues
+• Greatly improved speed of detecting whether device is in recovery mode or not
+• Previously, when the save dialog pops up, some buttons will get disabled if you clicked 'Cancel' rather than 'Save'
+	--Essentially, the program kinda forced you to save the file. This update fixes that issue.
+• Improved file cleaning process
+	--Previously, the cleaning process was very messy and inefficient. It caused some false errors to pop up.
+---------------------------------------------------------------------
+v1.19:
 • Fixed a bug where it shows the error: "udid.txt cannot be found"
-
 ---------------------------------------------------------------------
 v1.18:
 • Bug fixes and code improvements
