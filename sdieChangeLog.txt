@@ -1,5 +1,8 @@
 
-v1.20 (Latest Version):
+v1.21 (Latest Version):
+• Fixed a very small error to prevent people from cleaning files when device enters recovery mode.
+---------------------------------------------------------------------
+v1.20:
 • Fixed some errors when saving the output file
 • Added additional errors to help clarify some issues
 • Greatly improved speed of detecting whether device is in recovery mode or not
