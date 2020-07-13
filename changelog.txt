@@ -1,5 +1,8 @@
 
-v1.6.9 (Latest Version):
+v1.7.0 (Latest Version):
+• Switched to a setup file instead of a ZIP file. If you still have the zip file, please remove it.
+---------------------------------------------------------------------
+v1.6.9:
 • Behind the scenes bug fixes and code improvements
 ---------------------------------------------------------------------
 v1.6.8:
