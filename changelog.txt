@@ -1,5 +1,8 @@
 
-v1.7.0 (Latest Version):
+v1.7.0 Revision 1 (Latest Version):
+• I secretly added the option to opt in to the beta program. Good luck finding it :P
+---------------------------------------------------------------------
+v1.7.0:
 • Switched to a setup file instead of a ZIP file. If you still have the zip file, please remove it.
 ---------------------------------------------------------------------
 v1.6.9:
