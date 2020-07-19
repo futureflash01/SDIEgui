@@ -1,5 +1,8 @@
 
-v1.7.0 Revision 1 (Latest Version):
+v1.7.0 Revision 2 (Latest Version):
+• Secret feature added :O
+---------------------------------------------------------------------
+v1.7.0 Revision 1:
 • I secretly added the option to opt in to the beta program. Good luck finding it :P
 ---------------------------------------------------------------------
 v1.7.0:
