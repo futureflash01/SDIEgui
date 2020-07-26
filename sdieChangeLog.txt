@@ -1,5 +1,8 @@
 
-v1.22 (Latest Version):
+v1.23 (Latest Version):
+• If iTunes is installed in a directory other than the default path, it should automatically detect it
+---------------------------------------------------------------------
+v1.22:
 • Fixed a bug that allowed the program to not start properly after exit
 ---------------------------------------------------------------------
 v1.21:
