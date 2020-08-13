@@ -1,5 +1,9 @@
 
-v1.23 (Latest Version):
+v1.24 (Latest Version):
+• Fixed the way the program cleans its files. 
+	--it would previously delete "udid.txt" resulting in a missing file error.
+---------------------------------------------------------------------
+v1.23:
 • If iTunes is installed in a directory other than the default path, it should automatically detect it
 ---------------------------------------------------------------------
 v1.22:
