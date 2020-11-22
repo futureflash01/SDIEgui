@@ -1,5 +1,11 @@
 
-v1.24 (Latest Version):
+v1.25 (Latest Version) :
+- 11/22/2020
+
+• Added error and crash reporting using CrashReporter.NET from https://github.com/ravibpatel/CrashReporter.NET
+	--huge thanks to ravibpatel for creating such an awesome and easy to use class library!
+---------------------------------------------------------------------
+v1.24:
 • Fixed the way the program cleans its files. 
 	--it would previously delete "udid.txt" resulting in a missing file error.
 ---------------------------------------------------------------------
