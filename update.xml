@@ -3,5 +3,5 @@
     <version>1.7.0.3</version>
     <url>https://raw.githubusercontent.com/laithayoub71/SDIEgui/master/BTD-Battles-Password-Extractor.exe</url>
     <changelog>https://raw.githubusercontent.com/laithayoub71/SDIEgui/master/changelog.txt</changelog>
-	<mandatory mode="1">true</mandatory>
+	<mandatory mode="2">true</mandatory>
 </item>
